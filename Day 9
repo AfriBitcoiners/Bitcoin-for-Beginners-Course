@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no, date=no, email=no, address=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
+    <!--[if (mso 16)]> <style type="text/css"> a { text-decoration: none; } </style> <![endif]-->
+    <!--[if gte mso 9]> <style> sup { font-size: 100% !important; } </style> <![endif]-->
+    <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]-->
+    <link rel="stylesheet" href="/campaign/stripo/css/custom.css" type="text/css">
+    <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]-->
+</head>
+
+<body class="es-wrapper-color" data-new-gr-c-s-loaded="14.1149.0">
+    <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+                <td class="esd-email-paddings" valign="top">
+                    <table cellpadding="0" cellspacing="0" class="es-content esd-footer-popover" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2024/01/02/47489b0c-6863-4356-8d38-88e3fa9b2eea.png?id=27778126" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/47489b0c-6863-4356-8d38-88e3fa9b2eea.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/47489b0c-6863-4356-8d38-88e3fa9b2eea.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/47489b0c-6863-4356-8d38-88e3fa9b2eea.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/47489b0c-6863-4356-8d38-88e3fa9b2eea.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="esd-block-text">
+                                                                                    <p style="color: #ffa500; text-align: justify;"><strong>Hello %FIRSTNAME%,</strong></p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">Today we will be learning about the blockchain and the technology that keeps the Bitcoin system as transparent as possible.</p>
+                                                                                    <p style="text-align: justify;"><br>Ever wondered if there's an easier way to complete transactions without having to deal with online wallets, banks, and third-party applications? Well, it's possible, thanks to the Blockchain.</p>
+                                                                                    <p style="text-align: justify;"><br>A blockchain is a decentralised ledger of all transactions across a peer-to-peer network. Let’s look at this example to understand more about the blockchain. Ray, Ted, Sam, and Kelvin. Each of them possesses a magical ledger where they jot down their transactions, balances, and every entry made on one ledger synchronizes across all ledgers, and cannot be erased. This way, everyone is constantly updated about each others account balances and transactions.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">One day, these friends decide to dine out. Before heading to the restaurant, they all had 20 sats in their accounts. At the end of the meal, Ray settles the 20 sats bill, which was automatically recorded in the ledger. To split the expense equally among themselves, the remaining friends, starting with Kelvin, send 5 sats each to Ray.<br>In Bitcoin, as mentioned previously, a transaction involves sending Bitcoin to a Bitcoin address, and must be signed by the sender with a private key that only the sender knows.</p>
+                                                                                    <p style="text-align: justify;">After Ray pays the 20 sats bill Kelvin, Ted and Sam still have 20 sats each while Ray has nothing left.</p>
+                                                                                    <p style="text-align: justify;"><br>Kelvin and Sam initiates a transfer of 5 sats each to Ray, and this transaction is securely and immutably documented in their ledgers. This record not only confirms the transfer but also updates the sats balances of both Kelvin, Sam and Ray, leaving them with 15 sats, 15 sats and 10 sats, respectively. This transaction is permanently recorded in their ledgers, ensuring transparency and accountability.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">Now, here's where the ledger's magic truly shines. If Ted claims to have made a payment to Ray when, in reality, he hasn't, his deception would be exposed. All four friends can easily verify each other's sats balances and transaction history on the ledger, making it impossible to hide or manipulate the truth. This is one of the remarkable aspects of the Bitcoin blockchain – trust and transparency among users.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2023/12/07/6b4277a0-8663-42a7-b3a7-d40a11ca02a5.png?id=26891881" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/6b4277a0-8663-42a7-b3a7-d40a11ca02a5.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/6b4277a0-8663-42a7-b3a7-d40a11ca02a5.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/6b4277a0-8663-42a7-b3a7-d40a11ca02a5.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/6b4277a0-8663-42a7-b3a7-d40a11ca02a5.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 12px;">How Bitcoin transaction works</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="esd-block-text es-p5t es-p15b es-p15r es-p15l">
+                                                                                    <p style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: #ff9500; text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">A hacker will not be able to alter the data in the blockchain because each user has a copy of the ledger and the data within the blocks&nbsp;&nbsp;is secured using a cryptographic hash function known as Secure Hash Algorithm -256&nbsp;&nbsp;(SHA-256).</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">This function (SHA-256) takes a block's contents as input and returns a fixed-size output known as a hash. The hash of each block is included in the next block in the blockchain, forming a chain of blocks that cannot be changed without also altering all subsequent blocks. All of this is made possible with the help of blockchain technology, and so the blockchain can be described as a collection of records linked with each other and strongly resistant to alteration and protected using cryptography.</p>
+                                                                                    <p><br></p>
+                                                                                    <p style="text-align: justify;">Let’s take a closer look at the transaction between Ray and Kelvin. Every user in the Bitcoin network has two keys: a public key and a private key. The public key is an address that everyone in the network knows like an email address of a user, while the private key is a unique address that only the user knows, something like a password.</p>
+                                                                                    <p style="text-align: justify;"><br>As Kelvin sends Bitcoin to Ray’s Bitcoin address, the transaction is digitally signed by Kelvin’s private key through a hashing algorithm to indicate that the transaction came from Kelvin. The transaction is now sent to Ray's public address and can only be decrypted by Ray's public key, which only Ray knows. This transaction is then validated and added to a block by miners.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">For a block to be validated and added to a blockchain, miners need to solve a complex mathematical problem. The miner who solves this first adds the block to the blockchain and is rewarded with 6.25 Bitcoins (It’s important to note that this reward amount has changed over the years through what is called “Bitcoin Halving”. We’ll touch on this important topic later). The process of solving a complex mathematical problem is called proof of work and the process of adding a block to the blockchain is called mining. With this process, Kelvin and Ray’s wallets are updated just like every person in the network who has completed a transaction.</p>
+                                                                                    <p style="text-align: justify;"><br>We’ve discussed a lot of new concepts in the past few days. If you need to go back and re-read the lessons, please do.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button">
+                                                                                    <!--[if mso]><a href="https://bitcoiners.africa/day-9-quiz/" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://bitcoiners.africa/day-9-quiz/" 
+                style="height:36px; v-text-anchor:middle; width:299px" arcsize="50%" stroke="f"  fillcolor="#f27202">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#000000; font-family:helvetica, "helvetica neue", arial, verdana, sans-serif; font-size:12px; font-weight:700; line-height:12px;  mso-text-raise:1px'>Click here to take today's quiz</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-width: 0px; background: #f27202; border-color: transparent; border-radius: 20px;"><a href="https://bitcoiners.africa/day-9-quiz/" class="es-button" target="_blank" style="font-weight: bold; font-family: helvetica, &quot;helvetica neue&quot;, arial, verdana, sans-serif; background: #f27202; color: #000000; border-radius: 20px; padding: 10px 40px; mso-border-alt: 10px solid #f27202">Click here to take today's quiz</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png?id=27301860" alt style="display: block;" data-cf-ir-is-resized="true" width="650" data-cf-ir-no-srcset="true" data-cf-ir-should-resize-image="true" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 4x" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="13751">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text" esd-links-color="#ffa500">
+                                                                                    <p>Sost is a marketplace for talent. A platform that facilitates Bitcoin payments, providing freelancers with a way to earn bitcoin for their skills and time. <a href="https://sost.tech/"><u>Click here</u></a> to check them out.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="13750">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">Have a great day!<br><br><strong>African Bitcoiners</strong></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="15471">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-social" style="font-size: 0px; background-color: #ffffff;" bgcolor="#ffffff">
+                                                                                    <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://web.facebook.com/profile.php?id=100083919610982"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" title="Facebook" width="32"></a></td>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://twitter.com/afribitcoiners"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/twitter-circle-colored.png" alt="Tw" title="Twitter" width="32"></a></td>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://www.instagram.com/africanbitcoiners/"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Ig" title="Instagram" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="discord" class="es-p25r"><a target="_blank" href="https://discord.gg/UfUjKR2u"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/discort-circle-colored.png" alt="Discord" title="Discord" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="whatsapp" class="es-p25r"><a target="_blank" href="https://chat.whatsapp.com/LeBd3vy2Ypb72dpM9eHUv8"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/whatsapp-circle-colored.png" alt="Whatsapp" title="Whatsapp" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="linkedin" class="es-p25r"><a target="_blank" href="https://www.linkedin.com/in/african-bitcoiners-3453a4246/"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" alt="In" title="Linkedin" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="telegram" class="es-p25r"><a target="_blank" href="https://t.me/+78udoEKLAw0wMzM0"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/telegram-circle-colored.png" alt="Telegram" title="Telegram" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="custom"><a target="_blank" href="https://astral.ninja/npub1q7qtx2k5qevch38nk7wq02gqvwkxldscu6fp293gav4vl7f5k52s4eq5kj"><img src="https://content.app-us1.com/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png?id=25592178" alt title="Custom" width="32" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 4x" data-cf-ir-no-srcset="true"></a></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table class="es-footer ac-footer" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+            <tr>
+                <td align="center" style="padding-top:20px; padding-bottom:20px; background: inherit; font-family: inherit; font-size: 11px; color: inherit;">
+                    <p style="font-family: inherit; font-size: inherit; color: inherit;"> Sent to: %EMAIL%<br><br><a style="font-family: inherit; color: inherit; font-weight: bold;" href="%UNSUBSCRIBELINK%" target="_blank">Unsubscribe</a><br><br><span class="perstag_address" style="color: inherit; font-family: inherit; font-size: 11px; color: inherit;">%SENDER-INFO-SINGLELINE%</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
