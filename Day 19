@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no, date=no, email=no, address=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
+    <!--[if (mso 16)]> <style type="text/css"> a { text-decoration: none; } </style> <![endif]-->
+    <!--[if gte mso 9]> <style> sup { font-size: 100% !important; } </style> <![endif]-->
+    <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]-->
+    <link rel="stylesheet" href="/campaign/stripo/css/custom.css" type="text/css">
+    <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]-->
+</head>
+
+<body class="es-wrapper-color" data-new-gr-c-s-loaded="14.1155.0">
+    <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+                <td class="esd-email-paddings" valign="top">
+                    <table cellpadding="0" cellspacing="0" class="es-content esd-footer-popover" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2024/01/02/1ce110b1-0047-4002-831f-cae590957f86.png?id=27778095" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/1ce110b1-0047-4002-831f-cae590957f86.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/1ce110b1-0047-4002-831f-cae590957f86.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/1ce110b1-0047-4002-831f-cae590957f86.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/01/02/1ce110b1-0047-4002-831f-cae590957f86.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="esd-block-text">
+                                                                                    <p style="color: #ff8c00; text-align: justify;"><strong>Bonjour %FIRSTNAME%</strong></p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">Today, we are talking about transactions. Transactions are the most important part of the Bitcoin Network. The entire Bitcoin system is designed to ensure that transactions can be created, sent on the network, validated, and finally added to the global ledger of transactions (the blockchain).&nbsp;&nbsp;A Bitcoin script refers to a simple programming language used to define the conditions under which a transaction output can be spent. It's a set of instructions embedded within a transaction that dictates the rules or conditions necessary to spend the funds associated with that transaction output. We are going to go over exactly what happens to a Bitcoin from the moment you hit the “send” button in your wallet until it’s received on the other end.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">The path from send to receive has 3 parts:</p>
+                                                                                    <p style="text-align: justify;">1.&nbsp; &nbsp;&nbsp;Signing</p>
+                                                                                    <p style="text-align: justify;">2.&nbsp; &nbsp;&nbsp;Broadcasting&nbsp;</p>
+                                                                                    <p style="text-align: justify;">3.&nbsp; &nbsp;&nbsp;Confirming<br><br></p>
+                                                                                    <p style="text-align: justify;"><strong>1. Signing</strong><br><br></p>
+                                                                                    <p style="text-align: justify;">Assuming Sally wanted to send Bitcoin to Bob, when Sally hits the “send” button in her wallet, what Sally is doing is telling her wallet, “Hey wallet, I want to send 1 Bitcoin to my friend Bob. Here is Bob’s Bitcoin address.”</p>
+                                                                                    <p style="text-align: justify;">The wallet in response evaluates Sally's UTXO (Unspent Transaction Output), which represents the Bitcoin she has available to spend. It then creates a transaction message containing information about Sally, Bob, and the amount being sent. Afterward, the wallet produces a unique digital signature for this message by mathematically mixing it with Sally's private key. Remember that Sally's private key is basically a long string of letters and numbers that act as the 'password' for her Bitcoin. Whoever knows Sally's private key has control of her Bitcoin.</p>
+                                                                                    <p style="text-align: justify;"><br>A digital signature is a way to prove that you own the private key to your Bitcoin and this is mathematically encrypted into your transaction so that&nbsp;&nbsp;by using only your public key (which you will have no issue exposing), your private key is kept private.</p>
+                                                                                    <p style="text-align: justify;">Also, digital signatures are different each time you sign a transaction, and this is why they are even more secure than a real signature as they are unique for each and every transaction. So if Sally sends Bob Bitcoin today and then some more tomorrow, each of these transactions will have a different digital signature. After signing the transaction message, the wallet then groups the signature, along with Sally's transaction message, into a small file.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2023/12/07/b65f87ba-cd44-42a7-9f3c-c73829d283ee.png?id=26895262" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/b65f87ba-cd44-42a7-9f3c-c73829d283ee.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/b65f87ba-cd44-42a7-9f3c-c73829d283ee.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/b65f87ba-cd44-42a7-9f3c-c73829d283ee.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/07/b65f87ba-cd44-42a7-9f3c-c73829d283ee.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 12px;">Image description of transaction signing.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="esd-block-text">
+                                                                                    <p style="text-align: justify;"><strong>&nbsp;2. Broadcasting</strong><br><br></p>
+                                                                                    <p style="text-align: justify;">In this step, the wallet starts sending out the file to other computers that hold a copy of the blockchain. These computers are also known as nodes. Each node that receives the file verifies that it’s legit. It’s basically looking to see that Sally has the funds she wants to spend and that her signature checks out, much like a banker would check your account balance before clearing your check.<br><br></p>
+                                                                                    <p style="text-align: justify;">Once Sally's file is verified, it is then passed on to other nodes in the network that repeat this process. When a node receives a file, it keeps it in a holding area called the <a target="_blank" style="text-align: justify;" href="https://mempool.space/">Mempool</a>. Once the transaction message finds its way to the <a target="_blank" style="text-align: justify;" href="https://mempool.space/">Mempool</a> of the different online nodes on the network, we can say the second step of broadcasting is officially finished.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">Let’s pause quickly and talk about the status of Sally's transaction at this point. For Sally to actually see what’s going on with her transaction, while it’s making its path along the Bitcoin network, she can use a block explorer. A <a href="https://www.blockchain.com/explorer">block explorer</a> is a tool, usually in the form of a website, that allows you to search and navigate through the blockchain. Using a block explorer, you can check the balance of different Bitcoin addresses, track transactions, and get a wide variety of statistics about the network.</p>
+                                                                                    <p style="text-align: justify;"><br></p>
+                                                                                    <p style="text-align: justify;">So, at this point, if Sally looks at her transaction through the block explorer, she will see that it is marked as “unconfirmed”, meaning that it was broadcasted to the network and had its digital signature verified but it hasn’t been added to a block.</p>
+                                                                                    <p style="text-align: justify;">This type of transaction is also sometimes referred to as a zero-confirmation transaction. An unconfirmed transaction should be treated as its name implies – unconfirmed. This means that the transaction can be replaced.<br><br>If your business sells or ships goods and you accept payment in bitcoin, you should never accept an unconfirmed transaction as a proof of payment.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2024/02/16/e3b83d91-1554-476c-adc9-252b0917235d.png?id=30133998" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/16/e3b83d91-1554-476c-adc9-252b0917235d.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/16/e3b83d91-1554-476c-adc9-252b0917235d.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/16/e3b83d91-1554-476c-adc9-252b0917235d.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/16/e3b83d91-1554-476c-adc9-252b0917235d.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 12px;">Image description of what happens when a Bitcoin transaction gets broadcasted.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="esd-block-text es-p5t es-p15b" esd-links-color="#3d85c6">
+                                                                                    <p style="font-family: verdana, geneva, sans-serif; font-size: 16px; color: #ff9500; text-align: justify;"><b>3. Confirming our transaction</b><br><br></p>
+                                                                                    <p style="text-align: justify;">On average, a new block of transactions will be mined, or inserted into the blockchain, every 10 minutes. Keep in mind that this is on average. Sometimes you’ll get 2 blocks confirmed within 1 minute and sometimes it can take more than an hour. If a block was mined with your transaction in it, you’ll notice it will now show on the block explorer, as having one confirmation.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2024/02/15/8ef4160d-a9c3-49a3-8d6c-4d81ee7f473c.png?id=30094481" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="650" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/15/8ef4160d-a9c3-49a3-8d6c-4d81ee7f473c.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/15/8ef4160d-a9c3-49a3-8d6c-4d81ee7f473c.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/15/8ef4160d-a9c3-49a3-8d6c-4d81ee7f473c.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2024/02/15/8ef4160d-a9c3-49a3-8d6c-4d81ee7f473c.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 12px;">Image showing unconfirmed and confirmed&nbsp;&nbsp;transactions.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <p style="text-align: justify;">As more and more blocks are added afterward, the confirmation number will grow. Think of it as a building of blocks with our block at the very bottom. Every additional block set on top of our own block makes removing our block harder. That’s why it’s usually suggested to wait for at least 6 blocks before considering a transaction as fully confirmed without any chance of cancellation. Our transaction is now fully confirmed and received.</p>
+                                                                                    <p style="display: none;"><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button">
+                                                                                    <!--[if mso]><a href="https://bitcoiners.africa/day-19-quiz/" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://bitcoiners.africa/day-19-quiz/" style="height:36px; v-text-anchor:middle; width:299px" arcsize="50%" stroke="f" fillcolor="#f27202">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#000000; font-family:helvetica, "helvetica neue", arial, verdana, sans-serif; font-size:12px; font-weight:700; line-height:12px; mso-text-raise:1px'>Click here to take today's quiz</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-width: 0px; background: #f27202; border-color: transparent; border-radius: 20px;"><a href="https://bitcoiners.africa/day-19-quiz/" class="es-button" target="_blank" style="font-weight: bold; font-family: helvetica, &quot;helvetica neue&quot;, arial, verdana, sans-serif; background: #f27202; color: #000000; border-radius: 20px; padding: 10px 40px; mso-border-alt: 10px solid #f27202">Click here to take today's quiz</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png?id=27301860" alt style="display: block;" data-cf-ir-is-resized="true" width="650" data-cf-ir-no-srcset="true" data-cf-ir-should-resize-image="true" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=650/b1mQr/2023/12/18/bea94e0d-0423-4c9d-8323-305cfc95aef9.png 4x" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text es-p5t es-p5b es-p15l" esd-links-color="#ffa500">
+                                                                                    <p>Another interesting place you can get sats reward for completing micro tasks, is on <strong><a target="_blank" href="https://microlancer.io/" style="color: #ffa500;">Microlancer</a></strong>.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="13750">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-spacer es-p20" style="font-size:0">
+                                                                                    <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-bottom: 1px solid #cccccc; background: unset; height:1px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">See you tomorrow!</p>
+                                                                                    <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;"><br><strong>African Bitcoiners</strong></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="15471">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-social" style="font-size: 0px; background-color: #ffffff;" bgcolor="#ffffff">
+                                                                                    <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://web.facebook.com/profile.php?id=100083919610982"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" title="Facebook" width="32"></a></td>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://twitter.com/afribitcoiners"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/twitter-circle-colored.png" alt="Tw" title="Twitter" width="32"></a></td>
+                                                                                                <td align="center" valign="top" class="es-p25r"><a target="_blank" href="https://www.instagram.com/africanbitcoiners/"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Ig" title="Instagram" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="discord" class="es-p25r"><a target="_blank" href="https://discord.gg/7AycaZZR"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/discort-circle-colored.png" alt="Discord" title="Discord" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="whatsapp" class="es-p25r"><a target="_blank" href="https://chat.whatsapp.com/LeBd3vy2Ypb72dpM9eHUv8"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/whatsapp-circle-colored.png" alt="Whatsapp" title="Whatsapp" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="linkedin" class="es-p25r"><a target="_blank" href="https://www.linkedin.com/in/african-bitcoiners-3453a4246/"><img src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" alt="In" title="Linkedin" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="telegram" class="es-p25r"><a target="_blank" href="https://t.me/+78udoEKLAw0wMzM0"><img src="https://stripo.app-us1.com/static/assets/img/messenger-icons/circle-colored/telegram-circle-colored.png" alt="Telegram" title="Telegram" width="32"></a></td>
+                                                                                                <td align="center" valign="top" esd-tmp-icon-type="custom"><a target="_blank" href="https://astral.ninja/npub1q7qtx2k5qevch38nk7wq02gqvwkxldscu6fp293gav4vl7f5k52s4eq5kj"><img src="https://content.app-us1.com/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png?id=25592178" alt title="Custom" width="32" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" srcset="https://content.app-us1.com/cdn-cgi/image/dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 1x,https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 2x,https://content.app-us1.com/cdn-cgi/image/dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 3x,https://content.app-us1.com/cdn-cgi/image/dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect,width=32/b1mQr/2023/11/07/4a7833d9-3303-4cc4-a610-6f1c55888fd3.png 4x" data-cf-ir-no-srcset="true"></a></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table class="es-footer ac-footer" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+            <tr>
+                <td align="center" style="padding-top:20px; padding-bottom:20px; background: inherit; font-family: inherit; font-size: 11px; color: inherit;">
+                    <p style="font-family: inherit; font-size: inherit; color: inherit;"> Sent to: %EMAIL%<br><br><a style="font-family: inherit; color: inherit; font-weight: bold;" href="%UNSUBSCRIBELINK%" target="_blank">Unsubscribe</a><br><br><span class="perstag_address" style="color: inherit; font-family: inherit; font-size: 11px; color: inherit;">%SENDER-INFO-SINGLELINE%</span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
